@@ -1,25 +1,14 @@
 
 Day Planner
 
-Description
-This is a day planner created using JavaScript. This was a huge learning experience, and while there are still a few things I'm working out, it's generally how I envisioned it. I went into this knowing very little about APIs, localStorage, setting intervals, etc, and although I most definitely have a lot more to learn,I believe I now have a solid foundation to build upon.
+Description:
+This planner was made in kinda a rush. I am proud of the way I have been able to make my projects astheticly look. But Im still honing my skills as far as JavaScript and jQuery goes. I hope you enjoy the work I've done getting this app to work.
 
-Installation
-Clone to your local machine and open in your favorite code editor to check it out! Or visit the deployed version at: Day Planner on GitHub Pages
+Installation:
+Clone to your local machine and open in your favorite code editor to check it out. Or visit the deployed version at: Day Planner on GitHub Pages
 
-Technologies Utilized
-HTML5, CSS3, Bootstrap 4, JavaScript, jQuery, Moment.js
-
-Information, Important Notes, etc
-I started building this application at a time when I was just getting my feet wet with APIs and JavaScript in general. That being said, the end goal for this application is:
-
-Increase the responsiveness and overall aesthetic of the application.
-Give user the ability to choose from several themes, day mode/night mode, etc.
-Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
-
-License
-[MIT] MIT License
+Languages Used:
+HTML5, CSS3, Bootstrap 4, JavaScript, jQuery
 
 Copyright (c) [2020] [Alan Elam]
 
