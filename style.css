@@ -1,9 +1,14 @@
 .jumbotron { 
     text-align: center;
-    background-color: lightgray;
-    font: 2px bold;
+    background-color: transparent;
+    font: 15px bold;
 }
 
 body {
-    
+    background-image: url(http://1.bp.blogspot.com/-OZ5x6ewvkHU/Tq7svGDSW8I/AAAAAAAAB6Y/EiRd52-xMH4/s1600/Digital-Art-Nature-Wallpapers-31.jpg);
+	background-size: cover;
+}
+.container{
+    height: 750px;
+    font-weight: bold;
 }
