@@ -7,11 +7,14 @@ $(document).ready(function () {
 
     //'click' event for saveBtn
     $('.saveBtn').on('click', function () {
+        let time = $(this).attr("data-time")
         let text = $(this).siblings(".description").val()
-        let time = $(this).parent().attr("data-time")
         schedule[time] = text;
         let schedString = JSON.stringify(schedule);
         localStorage.setItem('schedule', schedString)
+        console.log('click')
+        console.log(text)
+        console.log(time)
     });
 
     let storeEvent = localStorage.getItem('schedule');
